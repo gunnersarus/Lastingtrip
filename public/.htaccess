@@ -1,0 +1,6 @@
+<FilesMatch "\.(js|css|jpg|png)$">
+    SetEnvIf Referer "^https://www\.thaopieh\.live" allow_referer
+    Order Deny,Allow
+    Deny from all
+    Allow from env=allow_referer
+</FilesMatch>
