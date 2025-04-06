@@ -1900,10 +1900,10 @@ multer@^1.4.5-lts.1:
     type-is "^1.6.4"
     xtend "^4.0.0"
 
-mysql2@^3.11.3:
-  version "3.11.3"
-  resolved "https://registry.npmjs.org/mysql2/-/mysql2-3.11.3.tgz"
-  integrity sha512-Qpu2ADfbKzyLdwC/5d4W7+5Yz7yBzCU05YWt5npWzACST37wJsB23wgOSo00qi043urkiRwXtEvJc9UnuLX/MQ==
+mysql2@^3.11.4:
+  version "3.11.5"
+  resolved "https://registry.yarnpkg.com/mysql2/-/mysql2-3.11.5.tgz#1a1cb9a61e78d636da10e122a3c4d6978ad08625"
+  integrity sha512-0XFu8rUmFN9vC0ME36iBvCUObftiMHItrYFhlCRvFWbLgpNqtC4Br/NmZX1HNCszxT0GGy5QtP+k3Q3eCJPaYA==
   dependencies:
     aws-ssl-profiles "^1.1.1"
     denque "^2.1.0"
@@ -2861,7 +2861,7 @@ vary@^1, vary@~1.1.2:
     moment "^2.30.1"
     multer "^1.4.5-lts.1"
     multer-storage-cloudinary "^4.0.0"
-    mysql2 "^3.11.3"
+    mysql2 "^3.11.4"
     node-localstorage "^3.0.5"
     nodemailer "^6.9.13"
     passport "^0.7.0"
@@ -2871,7 +2871,7 @@ vary@^1, vary@~1.1.2:
     sequelize "^6.37.5"
     sharp "^0.33.3"
     store "^2.0.12"
-    vexere "file:C:/Users/Admin/AppData/Local/Yarn/Cache/v6/npm-vexere-1.0.0-57a708ce-14db-400e-8224-198942744d44-1733107578295/node_modules/vexere"
+    vexere "file:../.cache/yarn/v6/npm-vexere-1.0.0-08a48c48-1f3f-41f1-9cb2-e5a584ed0fc6-1733639154308/node_modules/vexere"
     vue "^3.4.26"
     winston "^3.17.0"
 
