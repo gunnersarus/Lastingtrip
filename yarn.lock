@@ -1963,10 +1963,10 @@ node-localstorage@^3.0.5:
   dependencies:
     write-file-atomic "^5.0.1"
 
-nodemailer@^6.9.13:
-  version "6.9.13"
-  resolved "https://registry.npmjs.org/nodemailer/-/nodemailer-6.9.13.tgz"
-  integrity sha512-7o38Yogx6krdoBf3jCAqnIN4oSQFx+fMa0I7dK1D+me9kBxx12D+/33wSb+fhOCtIxvYJ+4x4IMEhmhCKfAiOA==
+nodemailer@^6.9.16:
+  version "6.9.16"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.9.16.tgz#3ebdf6c6f477c571c0facb0727b33892635e0b8b"
+  integrity sha512-psAuZdTIRN08HKVd/E8ObdV6NO7NTBY3KsC30F7M4H1OnmLCUNaS56FpYxyb26zWLSyYF9Ozch9KYHhHegsiOQ==
 
 nodemon@^3.1.6:
   version "3.1.6"
@@ -2863,7 +2863,7 @@ vary@^1, vary@~1.1.2:
     multer-storage-cloudinary "^4.0.0"
     mysql2 "^3.11.3"
     node-localstorage "^3.0.5"
-    nodemailer "^6.9.13"
+    nodemailer "^6.9.16"
     passport "^0.7.0"
     passport-google-oauth20 "^2.0.0"
     qs "^6.12.1"
@@ -2871,7 +2871,7 @@ vary@^1, vary@~1.1.2:
     sequelize "^6.37.5"
     sharp "^0.33.3"
     store "^2.0.12"
-    vexere "file:C:/Users/Admin/AppData/Local/Yarn/Cache/v6/npm-vexere-1.0.0-57a708ce-14db-400e-8224-198942744d44-1733107578295/node_modules/vexere"
+    vexere "file:../.cache/yarn/v6/npm-vexere-1.0.0-d53fbb7e-9a51-4ead-a5ff-0a2d3fa1f68d-1733639133152/node_modules/vexere"
     vue "^3.4.26"
     winston "^3.17.0"
 
