@@ -1887,10 +1887,10 @@ multer-storage-cloudinary@^4.0.0:
   resolved "https://registry.npmjs.org/multer-storage-cloudinary/-/multer-storage-cloudinary-4.0.0.tgz"
   integrity sha512-25lm9R6o5dWrHLqLvygNX+kBOxprzpmZdnVKH4+r68WcfCt8XV6xfQaMuAg+kUE5Xmr8mJNA4gE0AcBj9FJyWA==
 
-multer@^1.4.5-lts.1:
-  version "1.4.5-lts.1"
-  resolved "https://registry.npmjs.org/multer/-/multer-1.4.5-lts.1.tgz"
-  integrity sha512-ywPWvcDMeH+z9gQq5qYHCCy+ethsk4goepZ45GLD63fOu0YcNecQxi64nDs3qluZB+murG3/D4dJ7+dGctcCQQ==
+multer@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/multer/-/multer-2.0.0.tgz#47076aa0f7c2c2fd273715e767c6962bf7f94326"
+  integrity sha512-bS8rPZurbAuHGAnApbM9d4h1wSoYqrOqkE+6a64KLMK9yWU7gJXBDDVklKQ3TPi9DRb85cRs6yXaC0+cjxRtRg==
   dependencies:
     append-field "^1.0.0"
     busboy "^1.0.0"
@@ -2859,7 +2859,7 @@ vary@^1, vary@~1.1.2:
     local-storage "^2.0.0"
     mkdirp "^3.0.1"
     moment "^2.30.1"
-    multer "^1.4.5-lts.1"
+    multer "^2.0.0"
     multer-storage-cloudinary "^4.0.0"
     mysql2 "^3.11.3"
     node-localstorage "^3.0.5"
@@ -2871,7 +2871,7 @@ vary@^1, vary@~1.1.2:
     sequelize "^6.37.5"
     sharp "^0.33.3"
     store "^2.0.12"
-    vexere "file:C:/Users/Admin/AppData/Local/Yarn/Cache/v6/npm-vexere-1.0.0-57a708ce-14db-400e-8224-198942744d44-1733107578295/node_modules/vexere"
+    vexere "file:../.cache/yarn/v6/npm-vexere-1.0.0-9ed58abc-4569-48fa-9455-554413c7fb25-1748157349555/node_modules/vexere"
     vue "^3.4.26"
     winston "^3.17.0"
 
